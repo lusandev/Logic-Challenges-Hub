@@ -1,0 +1,22 @@
+
+**Exercício de teste de mesa para validação do fluxo de controle e da condição de parada da estrutura Enquanto.**
+
+algoritmo "teste_enquanto"
+    Var
+    x, soma : inteiro
+  
+Inicio
+   
+    Escreval("Digite o primeiro numero:   ")
+    leia(x)
+
+soma <- 0
+    enquanto x <> 0 faca
+      soma<- soma + x
+      Escreval("Digite outro numero: ")
+      leia(x)
+    fimenquanto
+   
+     escreval("Soma: ", soma)
+
+FimAlgoritmo
