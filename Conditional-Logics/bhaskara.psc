@@ -1,3 +1,6 @@
+
+**Algorítmo para resolver equações do 2° grau. Inclui validação do Delta para tratar de casos onde a equação não possuei raízes reais.**
+
 Algoritmo "bhaskara"
     Var  a, b, c : inteiro
     Var x1, x2, delta : real
