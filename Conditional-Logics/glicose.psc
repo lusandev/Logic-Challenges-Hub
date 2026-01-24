@@ -1,3 +1,6 @@
+
+**Classificação de níveis de glicose no sangue em três categorias (Nomal, Elevado e Diabetes), utilizando condicionais compostas.**
+
 Algoritmo "glicose"
     Var glicose: real
     var classificacao: caractere
