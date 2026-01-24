@@ -1,3 +1,6 @@
+
+**Algorítmo de competição para identificar a maior distancia alcançada entre três arremessos de dardo, utilizando funções de comparação encadeadas.**
+
 Algoritmo "dardo"
     Var 
    d1, d2, d3 : real
