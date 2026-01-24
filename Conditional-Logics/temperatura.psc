@@ -1,3 +1,6 @@
+
+**Connversor inteligente que identifiica a unidade de medida (Celsius ou Fahrenheit) e realiza a transformação matemática a escala oposta.**
+
 Algoritmo "temperatura"
    Var
     F, C : real
