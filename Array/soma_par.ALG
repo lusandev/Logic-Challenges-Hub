@@ -1,5 +1,5 @@
 
-O programa lê um vetor de N números inteiros e calcula a média aritmética apenas dos elementos que são pares. Caso não existam números pares no vetor, o programa deve emitir uma mensagem específica (Nenhum número par).
+**O programa lê um vetor de N números inteiros e calcula a média aritmética apenas dos elementos que são pares. Caso não existam números pares no vetor, o programa deve emitir uma mensagem específica (Nenhum número par).**
 
 Algoritmo "media_pares"
 
