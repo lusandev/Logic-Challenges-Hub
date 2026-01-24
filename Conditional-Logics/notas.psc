@@ -1,3 +1,6 @@
+
+**Sistema de avaliação que calcula a nota final e determina se o aluno foi aprovado ou reprovado com base em um critério de corte.**
+
 Algoritmo "notas"
     Var
   nota1, nota2, Nota_final : real
