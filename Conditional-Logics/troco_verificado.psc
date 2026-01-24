@@ -1,3 +1,6 @@
+
+**Simulação de caixa de varejo . Calcula o troco devido e exibe uma mensagem de erro caso o valor pago seja insuficiente para cobrir o preço do produto.**
+
 Algoritmo "troco_verificado"
     Var 
 total, precoUnidade, dinheiro, troco, isn: real
