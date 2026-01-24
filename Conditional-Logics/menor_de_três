@@ -1,3 +1,6 @@
+
+**Implementação de lógica de comparação aninhada para identificar o menor valor entre três números distintos inseridos pelo usuário.**
+
 Algoritmo "menor_de_tres"
     Var
    termo_1, termo_2, termo_3 : inteiro
