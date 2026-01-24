@@ -1,0 +1,24 @@
+Algoritmo "menor_de_tres"
+    Var
+   termo_1, termo_2, termo_3 : inteiro
+   
+Inicio
+     escreva("Primeiro valor:  ")
+     leia(termo_1)
+     escreva ("Segundo valor: ")
+     leia(termo_2)
+     escreva("Terceiro termo: ")
+     leia(termo_3)
+ 
+ se termo_1 <= termo_2 e termo_1 <= termo_3 entao
+   escreva("MENOR: ",termo_1)
+senao
+   se termo_2 <= termo_1 e termo_2 <=termo_3 entao
+     escreval("MENOR: ", termo_2)
+   senao
+    escreva("MENOR: ", termo_3)
+
+ fimse
+fimse
+
+FimAlgoritmo
