@@ -1,7 +1,7 @@
 
 **Demonstração técnica da estrutura de repetição Para, controlada por limites definidos e incremento automático.**
 
-Algoritmo "5_teste_para"
+Algoritmo "teste_para"
 
     Var i, n, x, soma : Inteiro
  
