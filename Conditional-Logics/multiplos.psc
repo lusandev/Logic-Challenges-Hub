@@ -1,3 +1,6 @@
+
+**Aplicação de operadores aritméticos (resto da divisão) para verificar a relação de multiplicidade entre dois números.**
+
 Algoritmo "multiplos"
     Var 
    n1, n2 : inteiro
