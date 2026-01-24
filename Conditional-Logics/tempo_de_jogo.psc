@@ -1,3 +1,6 @@
+
+**Lógica para calcular a duração de uma partida (máximo 24 hrs, tratando corretamente a passagem do tempo que cruza a meia-noite.**
+
 Algoritmo "tempo_de_jogo"
     Var hora_inicial, hora_final, duracao, d1, total1, total2  : inteiro
 Inicio
