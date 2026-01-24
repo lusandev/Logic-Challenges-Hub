@@ -1,0 +1,35 @@
+Algoritmo "numeros pares"
+
+Var
+
+  nm: vetor[0..9] de inteiro
+
+  quant,num, i : inteiro
+
+Inicio
+
+  escreva("Quantos números você vai digitar? ")
+  leia(quant)
+  
+  para i de 0 ate quant-1 faca
+  
+   escreva("Digite um número: ")
+   leia(nm[i])
+
+  
+  fimpara
+  
+  
+  escreval("Números pares: ")
+  
+   para i de 0 ate quant -1 faca
+   
+     se nm[i] % 2 = 0 entao
+     
+      escreva(nm[i])
+      
+     fimse
+     
+   fimpara
+   
+Fimalgoritmo
