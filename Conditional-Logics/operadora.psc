@@ -1,3 +1,6 @@
+
+**Cálculo de fatura de plano de telefonia. Aplica uma taxa fixa para os 100 primeiros minutos e uma cobrança excedente por minuto adicional.**
+
 Algoritmo "operadora"
     Var 
    minutos, pagar, fixo : inteiro
