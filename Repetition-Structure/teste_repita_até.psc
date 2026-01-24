@@ -1,7 +1,7 @@
 
 **Implementação de conversor de temperatura (Celsius para Fahrenheit) utilizando a estrutura de controle Repita-Até para permitir múltiplas execuções baseadas na escolha do usuário.**
 
-Algoritmo "5_teste_repita_ate"
+Algoritmo "teste_repita_ate"
     Var C, F : real
     Var resp : Caractere
 
