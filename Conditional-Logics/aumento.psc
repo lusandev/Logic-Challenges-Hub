@@ -1,5 +1,4 @@
-alcula o reajuste salarial escalonado Define o novo salário o valor do aumento e a porcentagem aplicada conforme a faixa salarial do funcionário
-_______
+//Calcula o reajuste salarial escalonado Define o novo salário o valor do aumento e a porcentagem aplicada conforme a faixa salarial do funcionário//
 
 Algoritmo "aumento"
     Var 
