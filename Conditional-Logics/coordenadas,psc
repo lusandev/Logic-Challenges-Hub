@@ -1,3 +1,6 @@
+
+**Análise de geometria analítica que identifica a posição de um ponto (X, Y) no plano cartesiano (Quadrantes, Origem ou Eixos).**
+
 Algoritmo "coodenadas"
     Var 
    Q1, Q2, Q3, Q4 : caractere 
